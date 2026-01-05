@@ -6,6 +6,6 @@
 * [氫能航空](./hydrogen-aviation.md) - 收集相關技術與基金。
 * [物流自動化](./logistics-automation.md) - 凱樂士科技及同業資訊。
 * [新材料](./new-materials.md) - 關鍵技術開發商列表。
-
+* [凱樂士科技](./Galaxis.md)
 ## 📈 最近更新
 - 2026/01/05：建立平台初步架構。
